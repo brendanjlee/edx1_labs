@@ -1,0 +1,5 @@
+Dependencies for Project 'Lab2', Target 'HelloLaunchPad': (DO NOT MODIFY !)
+CompilerVersion: <unknown>
+F (.\main.c)(0x5698E8C4)()
+F (.\startup.s)(0x57012B08)()
+F (.\texas.o)(0x5698E8C4)()
